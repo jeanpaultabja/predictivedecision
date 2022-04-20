@@ -1,0 +1,9 @@
+{
+  "name" : "decisions/Usr034-Client-Onboarding-Decision/OPS1650460750688",
+  "type" : "OPS",
+  "description" : "OPS",
+  "mlUrl" : "http://ads-ml-service-service-ibm-ads-ml-service.tech-jam-amer-3-464887bc828751e1b00625ca9211fbca-0000.us-east.containers.appdomain.cloud/",
+  "authUrl" : "",
+  "instanceId" : "",
+  "apiKey" : null
+}

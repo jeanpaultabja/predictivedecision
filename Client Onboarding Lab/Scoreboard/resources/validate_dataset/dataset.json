@@ -1,0 +1,9 @@
+{
+  "client": {
+    "annualRevenue": 400000,
+    "companyAge": 15,
+    "defaultedPayment": false,
+    "numberOfEmployees": 200000
+  },
+  "industry": "Finance"
+}
